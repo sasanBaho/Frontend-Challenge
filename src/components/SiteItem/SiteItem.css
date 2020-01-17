@@ -1,0 +1,44 @@
+.list-item i{
+    vertical-align: baseline}
+.list-item img{
+    width: 60px;
+    height: 60px;
+    
+}
+.list-item .txt-style{
+    padding-left: 2% !important;
+    line-height: 1.4em;
+}
+.inline-item-l{
+     display: inline-block;
+     width: 80%;
+}
+.inline-item-s{
+     display: inline-block;
+    margin-right: 2%;
+    vertical-align: baseline;
+}
+.inline-item-s img{
+    vertical-align: baseline;
+}
+
+.card-body{
+    padding: 0;
+}
+.list-group-item{
+    
+}
+i.icon{
+}
+.angle{
+    color: dodgerblue;
+    
+}
+.card-title{
+        font-size: 18px;
+    margin-bottom:0.5;
+    }
+    .card-subtitle{
+        font-size: 14px;
+        margin-bottom:0;
+    }
