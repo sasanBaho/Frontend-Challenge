@@ -11,9 +11,11 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-- Run local server
+— in the  project folder
+$ npm install
+
+-- Run local server
 $ json-server --watch db.json
 
-—- in the  project folder
-$ npm install
+--- Start the project
 $ npm start (You need to choose new port)
