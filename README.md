@@ -1,5 +1,4 @@
 ## General info
-This project is for front-end challenge test by React.
 It is an app, showing sites list and details.
 
 ## Technologies
