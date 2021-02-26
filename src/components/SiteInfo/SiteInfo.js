@@ -35,7 +35,7 @@ class SiteInfo extends Component {
                 <div>{site}</div>
                 {/*I used this path for image src because API images not working*/}
                 <div  className='site-img'>
-                    <img src="https://i.picsum.photos/id/1029/4887/2759.jpg" alt={this.state.loadedSite.title} />
+                    <img src="https://picsum.photos/1000/300" alt={this.state.loadedSite.title} />
                 </div>
                 <ul className="list-group ">
                     <li className='list-group-item font-weight-bold'>
